@@ -1,0 +1,22 @@
+.App {
+  margin-left:20%;
+  margin-right: 20%;
+  text-align: center;
+  border: solid 1px;
+  line-height: 1.9;  
+  padding: 25px;
+  
+}
+.parrafo{
+  margin: 0px;
+  text-align: left;
+  margin-left: 20%;
+  font-size: 15px;
+  color: rgb(105, 104, 102);
+  font-family:courier,arial,helvética;
+}
+.persona{
+  margin: 0px;
+  text-align: left;
+  margin-left: 20%;
+}
